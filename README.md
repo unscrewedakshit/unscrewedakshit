@@ -3,9 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:akshitpanday791@gmail.com)](mailto:akshitpanday791@gmail.com)
 ---
 ## Hi there 👋,           
-I'm Akshit Panday, Pre-final year Computer Science student 👨‍. 
-
-I am a Web Developer with good knowledge of Algorithms and Data Structures.
+👋I'm Akshit Panday from Nagpur, India. I am a Web Developer and Programmer currently pursing a Bachelors Degree in Computer Science. After my graduation I'm interested in working in some reputed IT-company for my professional as well as personal growth. I'm a Tech enthusiast who loves to build full stack Web apps & Mobile apps, Open source contributions and to explore latest frameworks and technologies in field of Computer Science. Apart from this I like to play online video games and travelling.
 
 ## 💥 Technical Skills
 - ✔  Data Structures & Algoritms
