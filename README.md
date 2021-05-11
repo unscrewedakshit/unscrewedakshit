@@ -1,5 +1,5 @@
 # Akshit Panday 😎
-[![Linkedin Badge](https://img.shields.io/badge/-AmitTiwary-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/akshitpanday/)](https://www.linkedin.com/in/akshitpanday/) 
+[![Linkedin Badge](https://img.shields.io/badge/-AkshitPanday-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/akshitpanday/)](https://www.linkedin.com/in/akshitpanday/) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:akshitpanday791@gmail.com)](mailto:akshitpanday791@gmail.com)
 ---
 ## Hi there 👋,           
