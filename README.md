@@ -17,6 +17,7 @@ I'm Akshit Panday from Nagpur, India. I am a Web Developer and Programmer curren
 - 🔥 Finalist in Smart India Hackathon(SIH) 2020
 - 🔥 Participated in Gov-TechThon 2020 - a national level hackathon organized by IEEE.
 - 🔥 3* Coder on Codechef
+- 🔥 Postman Student Expert
 - 🔥 Solved 200+ problems on GFG, CodeChef, Leetcode etc.
 
 
