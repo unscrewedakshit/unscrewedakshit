@@ -8,7 +8,7 @@ I'm Akshit Panday from Nagpur, India. I am a Web Developer and Programmer curren
 ## 💥 Technical Skills
 - ✔  Data Structures & Algoritms
 - ✔  Object Oriented Programming
-- ✔  Languages :- C++, Java, Javascript, Python(Basic)
+- ✔  Languages :- C++, Java, Javascript
 - ✔  Frameworks :- ReactJS, NodeJS , ExpressJS, jQuery, Redux, Bootstrap, Material-UI
 - ✔  Databases :- MongoDB, Firebase, SQL
 - ✔  Tools :- Git , GitHub, Postman, NPM.
